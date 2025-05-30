@@ -6,6 +6,7 @@ This code uses historical time series of precipitation, potential evapotranspira
 
 The hydrological model is a SIMHYD model. Read more about it here: -
 -https://ewater.atlassian.net/wiki/spaces/SD50/pages/50135548/SIMHYD+-+SRG
+
 -Bhasme, P., & Bhatia, U. (2024). Improving the interpretability and predictive power of hydrological models: Applications for daily streamflow in managed and unmanaged catchments. Journal of Hydrology, 628, 130421.
 
 Current version is for the Charles River catchment.

@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+math
+random
+scipy
+warnings
+os
+functools
